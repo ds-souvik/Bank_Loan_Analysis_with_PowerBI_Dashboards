@@ -86,7 +86,7 @@ select avg(int_rate) as MTD_avg_int_rate from bank_loan_data
 where extract(year from issue_date)= (select extract(year from max(issue_date)) from bank_loan_data) and
 extract(month from issue_date)= (select extract(month from max(issue_date)) from bank_loan_data);
 
--- 3.3 Track average interest rate Changes month over month
+-- 4.3 Track average interest rate Changes month over month
 with monthly_avg_int_rates_data as(
 	select extract(year from issue_date) as year,
     extract(month from issue_date) as mon,
