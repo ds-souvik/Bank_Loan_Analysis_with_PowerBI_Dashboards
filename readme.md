@@ -143,13 +143,18 @@ Future enhancements to this project could include:
 - **Communication**: Documenting processes, creating presentations, explaining technical details to a non-technical audience
 
 ## Author
-![Souvik Ganguly](Project%20Images%20and%20video/Passport_Size_photo.JPG)
 
-**Souvik Ganguly**
-- LinkedIn: [Souvik Ganguly](https://www.linkedin.com/in/souvik-ganguly-4a9924105/)
+<div align="center">
+  <img target="_blank" src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Passport_Size_photo.JPG" width=140 height=160 alt="Souvik Ganguly">
+  <h2>Souvik Ganguly</h2>
+  <a href="https://www.linkedin.com/in/souvik-ganguly-4a9924105/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
-## Connect with Me
-Thank you for taking the time to explore this project. I hope you find it insightful and valuable. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/souvik-ganguly-4a9924105/) or reach out via email at souvik.ganguly.ds@gmail.com for any queries or opportunities.
+---
+
+**Connect with me**: If you would like to connect with me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/souvik-ganguly-4a9924105/) or email me at [souvik.ganguly.ds@gmail.com](mailto:souvik.ganguly.ds@gmail.com).
 
 ---
 
