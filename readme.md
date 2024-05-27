@@ -23,20 +23,6 @@ Click the image below to watch the dashboard video on YouTube.
   </a>
 </div>
 
-## Key Findings
-<div align="center">
-  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Key_Findings_1.png" alt="Key Insights 1">
-</div>
-
-<div align="center">
-  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Key_Findings_2.png" alt="Key Insights 2">
-</div>
-
-## Action Items
-<div align="center">
-  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Action_Items.png" alt="Action Items">
-</div>
-
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
@@ -185,4 +171,4 @@ Future enhancements to this project could include:
 
 ---
 
-Feel free to reach
+**If you liked the project, consider putting a star?
