@@ -11,7 +11,11 @@ You can explore the dashboard and the project in the following ways:
 ## Dashboard Video
 Click the image below to watch the dashboard video on YouTube.
 
-[![Dashboard Video](https://img.youtube.com/vi/aTHrhGP0JI0/0.jpg)](https://www.youtube.com/watch?v=aTHrhGP0JI0)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=aTHrhGP0JI0" target="_blank">
+    <img src="https://img.youtube.com/vi/aTHrhGP0JI0/0.jpg" alt="Dashboard Video" width="480" height="270">
+  </a>
+</div>
 
 ## Table of Contents
 - [Overview](#overview)
