@@ -10,9 +10,9 @@ Welcome to the **Bank Loan Analysis and Dashboard** repository! This project sho
 
 ## Explore the Dashboard
 You can explore the dashboard and the project in the following ways:
-1. **Project Presentation**: A comprehensive presentation that covers the problem statement, methodology, results, and key insights from the analysis. This presentation is ideal for understanding the project's scope and impact.
-2. **Interactive Dashboards on Novypro**: Experience the interactive dashboards published on Novypro by clicking [here](https://www.novypro.com/projects?Popup=memberProject&Data=1716758823345x711934909312914800). This allows you to interact with the data visualizations and explore the insights dynamically.
-3. **PDF of the Dashboard**: A static PDF version of the dashboards, which provides a snapshot of all the visualizations and metrics. This is useful for offline review and sharing.
+1. [**Interactive Dashboards on Novypro**](https://www.novypro.com/projects?Popup=memberProject&Data=1716758823345x711934909312914800): Experience the interactive dashboards published on Novypro. This allows you to interact with the data visualizations and explore the insights dynamically.
+2. [**Project Presentation**](https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/raw/main/Loan%20Data%20Analysis%20and%20Dashboard%20Presentation.pptx): A comprehensive presentation that covers the problem statement, methodology, results, key insights and action items from the analysis. This presentation is ideal for understanding the project's scope and impact.
+3. [**PDF of the Dashboard**](https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/4.%20PowerBI_Dashboard/4.2%20Bank%20Loan%20Reports.pdf): A static PDF version of the dashboards, which provides a snapshot of all the visualizations and metrics. This is useful for offline review and sharing.
 
 ## Dashboard Video
 Click the image below to watch the dashboard video on YouTube.
