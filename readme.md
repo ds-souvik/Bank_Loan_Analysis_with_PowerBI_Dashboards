@@ -8,7 +8,7 @@ You can explore the dashboard and the project in the following ways:
 2. **Interactive Dashboards on Novypro**: Experience the interactive dashboards published on Novypro by clicking [here](https://www.novypro.com/projects?Popup=memberProject&Data=1716758823345x711934909312914800). This allows you to interact with the data visualizations and explore the insights dynamically.
 3. **PDF of the Dashboard**: A static PDF version of the dashboards, which provides a snapshot of all the visualizations and metrics. This is useful for offline review and sharing.
 
-![Dashboard Video](Project%20Images%20and%20video/Dashboard_short_video.mp4)
+[![Dashboard Video](https://img.youtube.com/vi/aTHrhGP0JI0/0.jpg)](https://www.youtube.com/watch?v=aTHrhGP0JI0)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -55,7 +55,7 @@ The dashboards created in this project can be used by financial institutions to:
    - `5.1 Loan Data Testing and Validation Report.docx`: A detailed report that includes all SQL queries and their corresponding results, used to validate the Power BI dashboards.
 
 6. **Project Images and video:**
-   - This folder contains images of the created dashboards and a video (`Dashboard_short_video.mp4`) showcasing the interactive elements and overall functionality of the Power BI dashboards.
+   - This folder contains images of the created dashboards and a link to the video (`Dashboard_short_video.mp4`) showcasing the interactive elements and overall functionality of the Power BI dashboards.
 
 7. **Documentation:**
    - `0.1 Bank Loan Process and Monitoring Guide.docx`: A domain knowledge document explaining the bank's data collection processes, loan approval procedures, and reasons for analyzing loan data.
