@@ -25,16 +25,16 @@ Click the image below to watch the dashboard video on YouTube.
 
 ## Key Findings
 <div align="center">
-  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Key_Findings_1.png" alt="Key Insights 1" width="800", height="600">
+  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Key_Findings_1.png" alt="Key Insights 1">
 </div>
 
 <div align="center">
-  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Key_Findings_2.png" alt="Key Insights 2" width="800", height="600">
+  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Key_Findings_2.png" alt="Key Insights 2">
 </div>
 
 ## Action Items
 <div align="center">
-  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Action_Items.png" alt="Action Items" width="800", height="600">
+  <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Action_Items.png" alt="Action Items">
 </div>
 
 ## Table of Contents
