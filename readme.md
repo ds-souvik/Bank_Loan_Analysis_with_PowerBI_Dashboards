@@ -171,4 +171,6 @@ Future enhancements to this project could include:
 
 ---
 
+<div align="center">
 **If you liked the project, consider putting a star?**
+</div>
