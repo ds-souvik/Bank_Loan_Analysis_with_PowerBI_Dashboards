@@ -23,10 +23,7 @@ Click the image below to watch the dashboard video on YouTube.
   </a>
 </div>
 
-## Key Insights and Action Items
-
-### Key Insights
-
+## Key Findings
 <div align="center">
   <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Key_Findings_1.png" alt="Key Insights 1" width="800", height="600">
 </div>
@@ -35,8 +32,7 @@ Click the image below to watch the dashboard video on YouTube.
   <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Key_Findings_2.png" alt="Key Insights 2" width="800", height="600">
 </div>
 
-### Action Items
-
+## Action Items
 <div align="center">
   <img src="https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/blob/main/Project%20Images%20and%20video/Action_Items.png" alt="Action Items" width="800", height="600">
 </div>
