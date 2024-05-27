@@ -171,4 +171,4 @@ Future enhancements to this project could include:
 
 ---
 
-**If you liked the project, consider putting a star?
+**If you liked the project, consider putting a star?**
