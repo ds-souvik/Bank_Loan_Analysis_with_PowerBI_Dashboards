@@ -8,6 +8,9 @@ You can explore the dashboard and the project in the following ways:
 2. **Interactive Dashboards on Novypro**: Experience the interactive dashboards published on Novypro by clicking [here](https://www.novypro.com/projects?Popup=memberProject&Data=1716758823345x711934909312914800). This allows you to interact with the data visualizations and explore the insights dynamically.
 3. **PDF of the Dashboard**: A static PDF version of the dashboards, which provides a snapshot of all the visualizations and metrics. This is useful for offline review and sharing.
 
+## Dashboard Video
+Click the image below to watch the dashboard video on YouTube.
+
 [![Dashboard Video](https://img.youtube.com/vi/aTHrhGP0JI0/0.jpg)](https://www.youtube.com/watch?v=aTHrhGP0JI0)
 
 ## Table of Contents
