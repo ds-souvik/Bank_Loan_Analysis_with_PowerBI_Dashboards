@@ -1,4 +1,10 @@
-# Bank Loan Analysis and Dashboard
+<div align="center">
+
+# [Bank Loan Analysis and Dashboard](https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards/raw/main/Loan%20Data%20Analysis%20and%20Dashboard%20Presentation.pptx)
+
+</div>
+
+--
 
 Welcome to the **Bank Loan Analysis and Dashboard** repository! This project showcases a comprehensive analysis of bank loan data and the development of interactive dashboards using Power BI. The repository is structured to provide valuable insights for technical recruiters, interviewers, and anyone interested in data science, finance, and visualization.
 
