@@ -1,0 +1,3 @@
+updated_loan_status,count(id)
+"Bad Loan",5333
+"Good Loan",33243

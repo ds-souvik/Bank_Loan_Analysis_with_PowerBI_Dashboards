@@ -1,3 +1,0 @@
-updated_loan_status,sum(loan_amount)
-"Bad Loan",65532225
-"Good Loan",370224850

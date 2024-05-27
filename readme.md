@@ -2,7 +2,13 @@
 
 Welcome to the **Bank Loan Analysis and Dashboard** repository! This project showcases a comprehensive analysis of bank loan data and the development of interactive dashboards using Power BI. The repository is structured to provide valuable insights for technical recruiters, interviewers, and anyone interested in data science, finance, and visualization.
 
-![Dashboard Screenshot](path_to_dashboard_screenshot.png)
+## Explore the Dashboard
+You can explore the dashboard and the project in the following ways:
+1. **Project Presentation**: A comprehensive presentation that covers the problem statement, methodology, results, and key insights from the analysis. This presentation is ideal for understanding the project's scope and impact.
+2. **Interactive Dashboards on Novypro**: Experience the interactive dashboards published on Novypro by clicking [here](https://www.novypro.com/projects?Popup=memberProject&Data=1716758823345x711934909312914800). This allows you to interact with the data visualizations and explore the insights dynamically.
+3. **PDF of the Dashboard**: A static PDF version of the dashboards, which provides a snapshot of all the visualizations and metrics. This is useful for offline review and sharing.
+
+![Dashboard Video](Project%20Images%20and%20video/Dashboard_short_video.mp4)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,18 +17,58 @@ Welcome to the **Bank Loan Analysis and Dashboard** repository! This project sho
 - [Visualizations](#visualizations)
 - [How to Use](#how-to-use)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Next Steps](#next-steps)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Author](#author)
+- [Connect with Me](#connect-with-me)
 
 ## Overview
 This project involves analyzing bank loan data to understand various metrics and trends in the lending process. The insights gained from this analysis are presented through interactive dashboards in Power BI, providing a clear and comprehensive view of the data.
 
+### How This Dashboard Can Be Used
+The dashboards created in this project can be used by financial institutions to:
+- Monitor key performance indicators (KPIs) such as loan applications, funded amounts, and repayment amounts.
+- Analyze trends and patterns in loan data over time.
+- Identify regional disparities in lending activities.
+- Assess the impact of borrower characteristics such as employment length and home ownership on loan applications and disbursements.
+- Evaluate the overall health and performance of the loan portfolio.
+
 ## Project Structure
-- `data_dictionary.xlsx` - A detailed data dictionary describing each column in the dataset.
-- `bank_loan_data.csv` - The dataset used for the analysis.
-- `Bank Loan Process and Monitoring Guide.pdf` - A document explaining the entire loan process and how to monitor it effectively.
-- `Loan Data Testing and Validation Report.pdf` - A report containing SQL queries, query results, and dashboard results for validation.
-- `Loan Data Analysis and Dashboard Presentation.pptx` - A presentation summarizing the project, testing results, and dashboard screenshots.
+1. **Data:**
+   - `financial_loan.csv`: This file contains the raw dataset used for the project, detailing loan information such as application details, funded amounts, and repayment data.
+
+2. **SQL_Scripts:**
+   - `2.0 Data Preprocessing.sql`: This script preprocesses the data, including changing the data types of date columns from text to date to ensure accurate analysis.
+   - `2.1 Dashboard_1_Summary.sql`: SQL queries designed to extract and process data specific to the problem statements of Dashboard 1: Summary.
+   - `2.2 Dashboard_2_Overview.sql`: SQL queries formulated to address the problem statements of Dashboard 2: Overview, extracting relevant data points for analysis.
+
+3. **SQL_query_results:**
+   - `3.1 Dashboard_1_Summary_query_results`: Contains 22 Excel files that store the results of the SQL queries executed from `2.1 Dashboard_1_Summary.sql`. Each file captures specific query outputs, facilitating data validation and visualization.
+   - `3.2 Dashboard_2_Overview_query_results`: Includes 6 Excel files with the results of the queries from `2.2 Dashboard_2_Overview.sql`, providing a foundation for the visualizations in Dashboard 2.
+
+4. **PowerBI_Dashboard:**
+   - `4.1 Bank Loan Reports.pbix`: The main Power BI file for the project, containing all the data models, measures, and visualizations used to create the dashboards.
+   - `4.2 Bank Loan Reports.pdf`: A PDF export of the Power BI dashboards, offering a static, shareable version of the visual insights.
+
+5. **Testing_and_validation_report:**
+   - `5.0 Data_Connection_MySQL_to_PowerBI.docx`: Documents the steps and procedures used to establish a connection between MySQL Workbench databases and Power BI, ensuring seamless data integration.
+   - `5.1 Loan Data Testing and Validation Report.docx`: A detailed report that includes all SQL queries and their corresponding results, used to validate the Power BI dashboards.
+
+6. **Project Images and video:**
+   - This folder contains images of the created dashboards and a video (`Dashboard_short_video.mp4`) showcasing the interactive elements and overall functionality of the Power BI dashboards.
+
+7. **Documentation:**
+   - `0.1 Bank Loan Process and Monitoring Guide.docx`: A domain knowledge document explaining the bank's data collection processes, loan approval procedures, and reasons for analyzing loan data.
+   - `0.2 Data Dictionary.xlsx`: A detailed data dictionary that explains the meaning and usage of each column in the dataset, including a sheet on data processing that describes column data types before and after preprocessing.
+   - `0.3 Measures, columns, table, group and field parameters.xlsx`: This document discusses the 28 measures, one date table, one field parameter, columns, and groups created to build the dashboards.
+
+8. **Presentation:**
+   - `Loan Data Analysis and Dashboard Presentation.pptx`: A presentation summarizing the project's problem statements, methodology, results, and key insights, designed to communicate the project effectively to stakeholders.
+
+9. **License:**
+   - MIT License: This project is licensed under the MIT License.
+
+10. **README.md**: This readme file providing a comprehensive guide to the repository.
 
 ## Key Performance Indicators (KPIs)
 The following KPIs are calculated and visualized in the dashboard:
@@ -31,7 +77,7 @@ The following KPIs are calculated and visualized in the dashboard:
 3. **Total Amount Received**: Total amount received from borrowers.
 4. **Average Interest Rate**: Average interest rate across all loans.
 5. **Average Debt-to-Income Ratio (DTI)**: Average DTI for borrowers.
-6. **Good Loan vs. Bad Loan KPIs**: 
+6. **Good Loan vs. Bad Loan KPIs**:
     - Good Loan Application Percentage
     - Good Loan Applications
     - Good Loan Funded Amount
@@ -65,11 +111,11 @@ The following KPIs are calculated and visualized in the dashboard:
 ## How to Use
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/Bank_Loan_Analysis_and_Dashboard.git
+    git clone https://github.com/ds-souvik/Bank_Loan_Analysis_with_PowerBI_Dashboards.git
     ```
 2. **Navigate to the repository**:
     ```sh
-    cd Bank_Loan_Analysis_and_Dashboard
+    cd Bank_Loan_Analysis_with_PowerBI_Dashboards
     ```
 3. **Open the dataset**: The dataset is provided in CSV format for analysis.
 4. **Review the documents**: Detailed guides and reports are available to understand the loan process and validation results.
@@ -78,13 +124,33 @@ The following KPIs are calculated and visualized in the dashboard:
 ## Results
 The analysis and dashboards provide valuable insights into loan applications, funded amounts, repayment patterns, and borrower profiles. These results help in making data-driven decisions and improving loan management strategies.
 
-## Contributing
-We welcome contributions to enhance the analysis and visualizations. Please feel free to fork the repository, create a branch, and submit a pull request.
+## Next Steps
+Future enhancements to this project could include:
+- Adding more advanced predictive analytics to forecast loan performance.
+- Integrating real-time data updates to keep the dashboards current.
+- Expanding the scope to include more financial products and services.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Skills Demonstrated
+### Technical Skills:
+- **Data Analysis**: SQL, Data Preprocessing, Data Cleaning
+- **Data Visualization**: Power BI, Dashboard Creation, Interactive Reports
+- **Database Management**: MySQL, Data Connection Setup
+- **Programming**: DAX (Data Analysis Expressions), SQL
+
+### Non-Technical Skills:
+- **Problem Solving**: Identifying key metrics, designing solutions to visualize data effectively
+- **Attention to Detail**: Ensuring accuracy in data analysis and visualization
+- **Communication**: Documenting processes, creating presentations, explaining technical details to a non-technical audience
+
+## Author
+![Souvik Ganguly](Project%20Images%20and%20video/Passport_Size_photo.JPG)
+
+**Souvik Ganguly**
+- LinkedIn: [Souvik Ganguly](https://www.linkedin.com/in/souvik-ganguly-4a9924105/)
+
+## Connect with Me
+Thank you for taking the time to explore this project. I hope you find it insightful and valuable. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/souvik-ganguly-4a9924105/) or reach out via email at souvik.ganguly.ds@gmail.com for any queries or opportunities.
 
 ---
 
-Feel free to reach out if you have any questions or suggestions. Thank you for exploring the **Bank Loan Analysis and Dashboard** project!
-
+Feel free to reach
